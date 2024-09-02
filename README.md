@@ -9,6 +9,8 @@
 - Programming and Software Development
 - Data Science and Machine Learning
 - Web Development
+- Watching cricket, mma, and boxing
+- Playing sports like weightlifting, wrestling, cricket and football
 
 
 ![image](https://github.com/user-attachments/assets/e2db8cfa-7996-416e-a3a3-817eab12500b)
